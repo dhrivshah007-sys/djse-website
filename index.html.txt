@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DJSE – Timeless Luxury for Little Ones</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Didot", "Times New Roman", serif;
+            background: #faf6f0;
+            color: #3f2f1b;
+            text-align: center;
+            letter-spacing: 0.5px;
+        }
+        header {
+            padding: 40px 0 10px 0;
+        }
+        img.logo {
+            width: 300px;
+            height: auto;
+        }
+        h1 {
+            font-size: 38px;
+            font-weight: 300;
+            margin-top: 25px;
+        }
+        section {
+            padding: 60px 20px;
+        }
+        .section-title {
+            font-size: 30px;
+            margin-bottom: 15px;
+            font-weight: 400;
+        }
+        .section-text {
+            font-size: 18px;
+            width: 70%;
+            margin: auto;
+            line-height: 1.7;
+        }
+        footer {
+            background: #e8e0d4;
+            padding: 25px;
+            font-size: 14px;
+            margin-top: 80px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img class="logo" 
+         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgAAAAQACAIAAACoEwUVAACTeGNhQlgAAJN4anV...IAAAKoAOJtxA3VybjpjMnBhOmExOTY3MmViLWU3NjAtNDRjNi1hMjVjLTE0YTYw" 
+         alt="DJSE Logo" />
+
+    <h1>TIMESLESS LUXURY FOR LITTLE ONES</h1>
+</header>
+
+<section>
+    <div class="section-title">Our Story</div>
+    <div class="section-text">
+        DJSE is crafted with love, inspired by elegance, softness, and timeless design. 
+        Every piece is made to celebrate childhood with premium comfort and refined artistry.
+    </div>
+</section>
+
+<section>
+    <div class="section-title">Our Collection</div>
+    <div class="section-text">
+        Discover a world of soft pastels, premium fabrics, and thoughtful detailing —
+        curated specially for newborns, toddlers, and young children.
+    </div>
+</section>
+
+<section>
+    <div class="section-title">Why Choose DJSE?</div>
+    <div class="section-text">
+        ✓ Premium luxury fabrics<br>
+        ✓ Minimalistic European-inspired design<br>
+        ✓ Comfort-first craftsmanship<br>
+        ✓ Perfect for gifting & special occasions<br>
+        ✓ Timeless styles for little ones  
+    </div>
+</section>
+
+<footer>
+    © 2026 DJSE — Luxury Clothing for Little Ones
+</footer>
+
+</body>
+</html>
